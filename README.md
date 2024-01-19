@@ -3,7 +3,7 @@
 
 - 🔭 I’m made is becuz **I like it**
 
-- 👨‍💻 All of my projects are available at my github
+- 👨‍💻 All of my projects are available at MY GITHUB
 
 - ⚡ Fun fact about that **I use the code on a book call:"Coding for Beginners: Using Python".**
 
