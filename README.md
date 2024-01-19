@@ -3,7 +3,7 @@
 
 - 🔭 I’m made is becuz **I like it**
 
-- 👨‍💻 All of my projects are available at [github.com/thang2023xd](github.com/thang2023xd)
+- 👨‍💻 All of my projects are available at [my github]
 
 - ⚡ Fun fact about that **I use the code on a book call:"Coding for Beginners: Using Python".**
 
